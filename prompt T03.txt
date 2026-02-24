@@ -1,0 +1,11 @@
+gemini:
+ di del ada 8 asrama, asrama rusun 1, 2, 3, 4, jati, peniel, kembar (2 asrama). buatlah sebuah sistem untuk mendukung operasional sehari hari untuk laudry Del dengan bentuk yang mudah di operasionalkan, buat sistem apa saja yang di perlukan untuk laundry asrama, contoh seperti list pakaian, penjemputan laundry, pencucian laundry, pengantaran laundry. jika ada operasional lain yang perlu buatkan. 
+
+ bahasa C
+buat contoh inputan
+buat program nya tak perlu dikenakan biaya
+buat contoh inputan
+
+chatgpt:
+ di del ada 8 asrama, asrama rusun 1, 2, 3, 4, jati, peniel, kembar (2 asrama). buatlah sebuah sistem untuk mendukung operasional sehari hari untuk laudry Del dengan bentuk yang mudah di operasionalkan, buat sistem apa saja yang di perlukan untuk laundry asrama, contoh seperti list pakaian, penjemputan laundry, pencucian laundry, pengantaran laundry. jika ada operasional lain yang perlu buatkan. 
+ buat contoh inputan

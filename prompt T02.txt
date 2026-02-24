@@ -1,0 +1,16 @@
+gemini:
+Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Input:
+Jumlah total data (N).
+Deret nilai (n1, n2, …, n).
+Kode kelompok siswa
+Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+
+chatgpt: 
+Deskripsi Masalah
+Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. Input:
+Jumlah total data (N).
+Deret nilai (n1, n2, …, n).
+Kode kelompok siswa
+Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+
+cukup menggunakan array. lalu buat jumlah total, dan buat kode kelompoknya
